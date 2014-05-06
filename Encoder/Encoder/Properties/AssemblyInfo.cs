@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Encoder")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Sky123.Org")]
+[assembly: AssemblyCompany("returngame")]
 [assembly: AssemblyProduct("Encoder")]
-[assembly: AssemblyCopyright("Copyright © Sky123.Org 2013")]
+[assembly: AssemblyCopyright("Copyright © returngame 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
